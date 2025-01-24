@@ -55,8 +55,8 @@ This README outlines the steps to create and run "Hello World" applications usin
 2. Installed required packages:
    ```bash
    npm i electron-vite -D
-```
-2. Create a new Electron app:
+   ```
+3. Create a new Electron app:
     ```bash
     npm create @quick-start/electron@latest
     ```
