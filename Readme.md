@@ -57,9 +57,9 @@ This README outlines the steps to create and run "Hello World" applications usin
    npm i electron-vite -D
 ```
 2. Create a new Electron app:
-```bash
-npm create @quick-start/electron@latest
-```
+    ```bash
+    npm create @quick-start/electron@latest
+    ```
 
 ### Steps to Run:
 - Start the app in development mode:
@@ -82,4 +82,4 @@ npm create @quick-start/electron@latest
 ### File Size
 - Tauri: 8.6 MB
 - Flutter: 22.7 MB
-- Electron.js:  177.0 MB
+- Electron.js: 177.0 MB
